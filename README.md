@@ -1,11 +1,7 @@
 <div align="center">
 
+  <h1 align="center">AI Prompt Sharing Platform</h1>
 
-  <h3 align="center">Next.js 14 AI Prompt Sharing Application</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on  Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -16,12 +12,12 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+7. 🚀 [Upcoming Features](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Develop a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
+A Next.js application that highlights the powerful features of Next.js and implements a comprehensive CRUD system for sharing AI prompts. The project includes authentication with NextAuth and leverages MongoDB for database management. This platform allows users to explore, create, and manage AI prompts in a modern, visually appealing interface with a focus on clean design and reusability.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -405,9 +401,12 @@ username: {
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/15bGW9HBImu1p3HAYalnaj2Ig_Sn-1c-f/view)
 
-## <a name="more">🚀 More</a>
+## <a name="more">🚀 Upcoming Features</a>
 
-**Advance your skills with Next.js 14 Pro Course**
+- Dark Mode: Implement a dark mode toggle for better user experience during nighttime usage.
+- Advanced Search Filters: Allow users to filter AI prompts by multiple tags and keywords.
+- Admin Dashboard: Add an admin panel for managing user content and moderating submissions.
+- AI Prompt Recommendations: Provide users with personalized prompt recommendations based on their usage history.
 
 
 #
